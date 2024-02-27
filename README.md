@@ -15,3 +15,6 @@ uniapp项目主要通过vue去制作一个简单的程序。
 首先克隆仓库到本地
 Fencing-recognition项目使用jupyter notebook打开，配置python环境完成代码运行
 uniapp项目使用HBuilder X打开
+
+
+如果觉得本仓库对你有帮助，请点个⭐️支持一下吧～
