@@ -12,6 +12,10 @@ https://www.youtube.com/watch?v=KC7nJtBHBqg
 首先克隆仓库到本地
 Fencing-recognition项目使用jupyter notebook打开，配置python环境完成代码运行
 
+## 示例
+<img width="416" alt="image" src="https://github.com/zeyu-rocket/Fencing-recognition-uniapp/assets/54592464/18188690-9c13-47e0-9c82-fbadaf8625c5">
+<img width="416" alt="image" src="https://github.com/zeyu-rocket/Fencing-recognition-uniapp/assets/54592464/d41a93f7-dfc4-45eb-9082-7da19ef95a19">
+
 
 如果觉得本仓库对你有帮助，请点个⭐️支持一下吧～
 有任何疑问可以在issue下留言，或者发送邮件至zeyu.xu.work@qq.com
