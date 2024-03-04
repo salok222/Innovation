@@ -27,7 +27,7 @@ Fencing-recognition项目使用jupyter notebook打开，需要安装anaconda配�
 
 如果觉得本仓库对你有帮助，请点个⭐️支持一下吧～
 有任何疑问可以在issue下留言，或者发送邮件至zeyu.xu.work@qq.com，如果我没能及时回复你，请添加wechat:
-![WechatIMG28](https://github.com/zeyu-rocket/Fencing-recognition/assets/54592464/943263c0-8bfe-449b-8daa-0bfb9c99ad12)
+<img width="416" alt="image" src="https://github.com/zeyu-rocket/Fencing-recognition/assets/54592464/943263c0-8bfe-449b-8daa-0bfb9c99ad12">
 
 
 
